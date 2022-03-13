@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Korygon
+- 👀 I’m interested in lua 
+- 🌱 I’m currently learning lua
+- 📫 How to reach me UVIntake#0236
